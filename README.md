@@ -36,6 +36,9 @@ https://github.com/user-attachments/assets/c72f35f7-50d8-449a-8c3f-53dba61585c9
 | 📊 Total Issue Value | 2.83bn |
 
 ---
+Production Infograph
+<img width="2752" height="1536" alt="Production Infograph" src="https://github.com/user-attachments/assets/620acadf-35be-4d0e-a31a-d12b8e41815a" />
+
 
 ## 📈 Dashboard Features
 
