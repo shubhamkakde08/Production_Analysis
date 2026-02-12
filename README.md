@@ -1,7 +1,6 @@
 # Production_Analysis
 
 ---
-
 ## 📌 Project Overview
 
 This **Production Analysis Dashboard** provides complete manufacturing insights including:
@@ -13,6 +12,10 @@ This **Production Analysis Dashboard** provides complete manufacturing insights 
 ✔ Monthly Production Trends  
 ✔ Item-wise Analysis  
 ✔ Value Issued Tracking  
+
+## 🖼 Dashboard Preview
+https://github.com/user-attachments/assets/c72f35f7-50d8-449a-8c3f-53dba61585c9
+
 
 ---
 
